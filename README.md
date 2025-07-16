@@ -1,7 +1,5 @@
 # Angel-One-Analytics-KPI-Monitoring-Event-Tracking-Throughput-Optimization
-Developed KPI dashboards, performed event tracking, and analyzed clickstream data across Angel One’s trading platforms (Android, iOS, Web). Utilized SQL, Presto, Redash, Firebase, and Qubole to monitor user behavior, optimize throughput, and support data-driven business decisions in fintech.
-
-![Angel One Banner](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.through-the-maze.org.uk%2Fwp-content%2Fuploads%2F2025%2F06%2Fangel-one%2Findex.html&psig=AOvVaw2rYxnf83H-ZxU15oqEE2Mi&ust=1752745682968000&source=images&cd=vfe&opi=89978449&ved=0CBYQjRxqFwoTCMjWp9CMwY4DFQAAAAAdAAAAABAE)
+![Angel One Banner](https://github.com/dhrumil231/Angel-One-Analytics-KPI-Monitoring-Event-Tracking-Throughput-Optimization/blob/main/AngelOne%20banner.jpg)
 
 # 📊 Angel One Analytics & Business Intelligence Project (2021–2023)
 
@@ -77,8 +75,3 @@ This repository showcases the full scope of my **internship and full-time experi
 - Developed skills in **data validation, funnel analysis, and stakeholder reporting**
 - Collaborated with engineering, product, and strategy teams to enable **data-backed decisions**
 - Delivered business insights that improved **UX, conversion rates**, and **performance monitoring**
-
----
-
-## 📂 Repository Structure
-
